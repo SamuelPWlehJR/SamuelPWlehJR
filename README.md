@@ -16,7 +16,7 @@ Samuel P. Wleh Jr
 
 I'm passionate about designing, managing, and optimizing databases to build efficient, data-driven systems. I enjoy solving real-world problems using SQL and continuously improving my skills in database design and backend development.
 
-About Me
+## About Me
 
 - Strong foundation in SQL & Relational Databases
 - Experience with query writing, table design & relationships
@@ -25,7 +25,7 @@ About Me
 - Open to internships, junior roles, and collaborations
 - Studying at Cyprus International University
   
-My work currently centers on:
+## My work currently centers on:
 
 - Relational database design & schema architecture
 - Writing and optimizing SQL queries for real-world use cases
