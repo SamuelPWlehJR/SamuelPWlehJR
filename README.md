@@ -54,9 +54,9 @@ I'm passionate about designing, managing, and optimizing databases to build effi
 
 ## Learning & Certification
 
-- **Introduction to Databases For Back-End Development — Meta · Coursera 
-- **Google Project Management Professional Certificate
-- [**Introduction to SQL](https://simpli.app.link/9C6uuGE1q3b) — Simplilearn 
+- [Introduction to Databases For Back-End Development](https://coursera.org/share/33f9637c0bf77f0903146ec35b773dab) — Meta · Coursera 
+- [Google Project Management Professional Certificate](https://coursera.org/share/7a7879382e82cbbd6ded4187eac3f309)
+- [Introduction to SQL](https://simpli.app.link/9C6uuGE1q3b) — Simplilearn 
 
 ## 🌟 GitHub Contributions
 
