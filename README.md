@@ -69,10 +69,6 @@ I'm passionate about designing, managing, and optimizing databases to build effi
 | --- | --- |
 | [![GitHub Stats](https://github-readme-stats-s623.vercel.app/api?username=SamuelPWlehJR&show_icons=true&theme=transparent&hide_border=true&bg_color=transparent&text_color=64748b&icon_color=94a3b8&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats-s623.vercel.app/api/top-langs?username=SamuelPWlehJR&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=transparent&text_color=64748b&title_color=475569)](https://github.com/anuraghazra/github-readme-stats) |
 
-![GitHub Activity Graph](<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelPWlehJR&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>)
-
 ## 🐍 Contributions
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/SamuelPWlehJR/SamuelPWlehJR/output/github-contribution-grid-snake.svg)
