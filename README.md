@@ -71,7 +71,7 @@ I'm passionate about designing, managing, and optimizing databases to build effi
 
 ![GitHub Activity Graph](<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelPWlehJR&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+</p>)
 
 ## 🐍 Contributions
 
