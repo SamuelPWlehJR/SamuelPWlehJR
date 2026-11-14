@@ -1,7 +1,7 @@
 Samuel P. Wleh Jr
 
 <p align="center">
-  <img src="./sam.png" alt="Samuel P. Wleh Jr banner" />
+  <img src="./head.png" alt="Samuel P. Wleh Jr banner" />
 </p>
 
 <p align="center">
